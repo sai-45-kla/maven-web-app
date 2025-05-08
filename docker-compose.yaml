@@ -3,7 +3,7 @@ services:
   mvn:
     image: mvnproj:v1
     ports:
-      - "89:80"
+      - "8099:80"
   mvn2:
     image: mvnproj:v1
     ports:
