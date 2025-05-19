@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="pink">
+<body bgcolor="green">
 <h1><font color='black'> Welcome to Pythonlife - Software Training Institute <font></h1>
 
 <a>Click Here To See Pythonlife Training Schedules</a>
