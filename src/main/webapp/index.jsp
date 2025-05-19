@@ -1,6 +1,6 @@
 <html>
 <body bgcolor="green">
-<h1><font color='black'> Welcome to Pythonlife - Software Training Institute <font></h1>
+<h1><font color='black'> Welcome to Pythonlife Devops - Software Training school <font></h1>
 
 <a>Click Here To See Pythonlife Training Schedules</a>
   
